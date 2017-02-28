@@ -11,7 +11,6 @@ namespace CodingBatCSharp
     {
         static void Main(string[] args)
         {
-            SleepIn.ShowAnswer(true, false);
         }
     }
 }
