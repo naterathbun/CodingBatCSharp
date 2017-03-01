@@ -8,43 +8,24 @@ namespace CodingBatCSharpTest.Warmup1Tests
     public class MonkeyTroubleTest
     {
         [TestMethod]
-        public void MonkeyTrouble_aTrue_bTrue_true()
+        public void MonkeyTroubleTest_aTrue_bTrue_resultTrue()
         {
-            // Arrange
-            bool testResult = MonkeyTrouble.ShowAnswer(true, true);
-            // Act
-            // Assert   
-            Assert.AreEqual(true, testResult);
+            Assert.AreEqual(true, MonkeyTrouble.ShowAnswer(true,true));
         }
-
         [TestMethod]
-        public void MonkeyTrouble_aTrue_bFalse_False()
+        public void MonkeyTroubleTest_aTrue_bFalse_resultFalse()
         {
-            // Arrange
-            bool testResult = MonkeyTrouble.ShowAnswer(true, false);
-            // Act
-            // Assert   
-            Assert.AreEqual(false, testResult);
+            Assert.AreEqual(false, MonkeyTrouble.ShowAnswer(true, false));
         }
-
         [TestMethod]
-        public void MonkeyTrouble_aFalse_bTrue_false()
+        public void MonkeyTroubleTest_aFalse_bTrue_resultFalse()
         {
-            // Arrange
-            bool testResult = MonkeyTrouble.ShowAnswer(false, true);
-            // Act
-            // Assert   
-            Assert.AreEqual(false, testResult);
+            Assert.AreEqual(false, MonkeyTrouble.ShowAnswer(false, true));
         }
-
         [TestMethod]
-        public void MonkeyTrouble_aFalse_bFalse_true()
+        public void MonkeyTroubleTest_aFalse_bFalse_resultTrue()
         {
-            // Arrange
-            bool testResult = MonkeyTrouble.ShowAnswer(false, false);
-            // Act
-            // Assert   
-            Assert.AreEqual(true, testResult);
+            Assert.AreEqual(true, MonkeyTrouble.ShowAnswer(false, false));
         }
     }
 }

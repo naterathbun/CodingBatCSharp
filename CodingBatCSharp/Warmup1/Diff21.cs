@@ -9,8 +9,8 @@ namespace CodingBatCSharp.Warmup1
     public static class Diff21
     {
 
-        static public string name = "Diff21";
-        static public string description = "Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21.";
+        public static string name = "Diff21";
+        public static string description = "Given an int n, return the absolute difference between n and 21, except return double the absolute difference if n is over 21.";
 
         static public int ShowAnswer(int n)
         {
