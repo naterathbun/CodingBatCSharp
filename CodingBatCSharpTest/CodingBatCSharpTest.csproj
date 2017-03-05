@@ -52,6 +52,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="Warmup1Tests\Or35Test.cs" />
     <Compile Include="Warmup1Tests\SleepInTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Warmup1Tests\MonkeyTroubleTest.cs" />
@@ -66,6 +67,7 @@
     <Compile Include="Warmup1Tests\FrontBackTest.cs" />
     <Compile Include="Warmup1Tests\Front3Test.cs" />
     <Compile Include="Warmup1Tests\BackAroundTest.cs" />
+    <Compile Include="Warmup1Tests\Front22Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodingBatCSharp\CodingBatCSharp.csproj">
