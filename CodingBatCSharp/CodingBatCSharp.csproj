@@ -59,6 +59,7 @@
     <Compile Include="Warmup1\ParrotTrouble.cs" />
     <Compile Include="Warmup1\PosNeg.cs" />
     <Compile Include="Warmup1\SleepIn.cs" />
+    <Compile Include="Warmup1\StartHi.cs" />
     <Compile Include="Warmup1\SumDouble.cs" />
   </ItemGroup>
   <ItemGroup>
