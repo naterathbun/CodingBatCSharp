@@ -50,6 +50,9 @@
     <Compile Include="Warmup1\Front22.cs" />
     <Compile Include="Warmup1\Front3.cs" />
     <Compile Include="Warmup1\FrontBack.cs" />
+    <Compile Include="Warmup1\HasTeen.cs" />
+    <Compile Include="Warmup1\IcyHot.cs" />
+    <Compile Include="Warmup1\Int1020.cs" />
     <Compile Include="Warmup1\Makes10.cs" />
     <Compile Include="Warmup1\MissingChar.cs" />
     <Compile Include="Warmup1\MonkeyTrouble.cs" />
