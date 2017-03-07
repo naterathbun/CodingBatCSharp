@@ -72,6 +72,9 @@
     <Compile Include="Warmup1Tests\IcyHotTest.cs" />
     <Compile Include="Warmup1Tests\Int1020Test.cs" />
     <Compile Include="Warmup1Tests\HasTeenTest.cs" />
+    <Compile Include="Warmup1Tests\LoneTeenTest.cs" />
+    <Compile Include="Warmup1Tests\DelDelTest.cs" />
+    <Compile Include="Warmup1Tests\MixStartTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodingBatCSharp\CodingBatCSharp.csproj">

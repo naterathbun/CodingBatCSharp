@@ -46,6 +46,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Warmup1\BackAround.cs" />
+    <Compile Include="Warmup1\DelDel.cs" />
     <Compile Include="Warmup1\Diff21.cs" />
     <Compile Include="Warmup1\Front22.cs" />
     <Compile Include="Warmup1\Front3.cs" />
@@ -53,8 +54,10 @@
     <Compile Include="Warmup1\HasTeen.cs" />
     <Compile Include="Warmup1\IcyHot.cs" />
     <Compile Include="Warmup1\Int1020.cs" />
+    <Compile Include="Warmup1\LoneTeen.cs" />
     <Compile Include="Warmup1\Makes10.cs" />
     <Compile Include="Warmup1\MissingChar.cs" />
+    <Compile Include="Warmup1\MixStart.cs" />
     <Compile Include="Warmup1\MonkeyTrouble.cs" />
     <Compile Include="Warmup1\Near100.cs" />
     <Compile Include="Warmup1\NotString.cs" />
