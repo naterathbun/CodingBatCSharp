@@ -49,15 +49,19 @@
     <Compile Include="Warmup1\Close10.cs" />
     <Compile Include="Warmup1\DelDel.cs" />
     <Compile Include="Warmup1\Diff21.cs" />
+    <Compile Include="Warmup1\EndUp.cs" />
     <Compile Include="Warmup1\Front22.cs" />
     <Compile Include="Warmup1\Front3.cs" />
     <Compile Include="Warmup1\FrontBack.cs" />
     <Compile Include="Warmup1\HasTeen.cs" />
     <Compile Include="Warmup1\IcyHot.cs" />
+    <Compile Include="Warmup1\In3050.cs" />
     <Compile Include="Warmup1\Int1020.cs" />
     <Compile Include="Warmup1\IntMax.cs" />
+    <Compile Include="Warmup1\LastDigit.cs" />
     <Compile Include="Warmup1\LoneTeen.cs" />
     <Compile Include="Warmup1\Makes10.cs" />
+    <Compile Include="Warmup1\Max1020.cs" />
     <Compile Include="Warmup1\MissingChar.cs" />
     <Compile Include="Warmup1\MixStart.cs" />
     <Compile Include="Warmup1\MonkeyTrouble.cs" />
@@ -69,6 +73,7 @@
     <Compile Include="Warmup1\SleepIn.cs" />
     <Compile Include="Warmup1\StartHi.cs" />
     <Compile Include="Warmup1\StartOz.cs" />
+    <Compile Include="Warmup1\StringE.cs" />
     <Compile Include="Warmup1\SumDouble.cs" />
   </ItemGroup>
   <ItemGroup>

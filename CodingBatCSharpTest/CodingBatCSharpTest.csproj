@@ -78,6 +78,11 @@
     <Compile Include="Warmup1Tests\StartOzTest.cs" />
     <Compile Include="Warmup1Tests\IntMaxTest.cs" />
     <Compile Include="Warmup1Tests\Close10Test.cs" />
+    <Compile Include="Warmup1Tests\In3050Test.cs" />
+    <Compile Include="Warmup1Tests\Max1020Test.cs" />
+    <Compile Include="Warmup1Tests\StringETest.cs" />
+    <Compile Include="Warmup1Tests\LastDigitTest.cs" />
+    <Compile Include="Warmup1Tests\EndUpTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodingBatCSharp\CodingBatCSharp.csproj">
