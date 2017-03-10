@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class Max1020
+    public class Max1020
     {
-        public static string Name = "Max1020";
-        public static string Description = "Given 2 positive int values, return the larger value that is in the range 10..20 inclusive, or return 0 if neither is in that range.";
+        public string Name = "Max1020";
+        public string Description = "Given 2 positive int values, return the larger value that is in the range 10..20 inclusive, or return 0 if neither is in that range.";
 
         public static int ShowAnswer(int a, int b)
         {

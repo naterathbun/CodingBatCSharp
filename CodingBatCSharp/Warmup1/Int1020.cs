@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class Int1020
+    public class Int1020
     {
-        public static string Name = "Int1020";
-        public static string Description = "Given 2 int values, return true if either of them is in the range 10..20 inclusive.";
+        public string Name = "Int1020";
+        public string Description = "Given 2 int values, return true if either of them is in the range 10..20 inclusive.";
 
         public static bool ShowAnswer(int a, int b)
         {

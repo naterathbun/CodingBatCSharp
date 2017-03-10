@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class IcyHot
+    public class IcyHot
     {
-        public static string Name = "IcyHot";
-        public static string Description = "Given two temperatures, return true if one is less than 0 and the other is greater than 100.";
+        public string Name = "IcyHot";
+        public string Description = "Given two temperatures, return true if one is less than 0 and the other is greater than 100.";
 
         public static bool ShowAnswer(int temp1, int temp2)
         {

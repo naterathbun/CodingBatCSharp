@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class MonkeyTrouble
+    public class MonkeyTrouble
     {
-        public static string name = "MonkeyTrouble";
-        public static string description = "We have two monkeys, a and b, and the parameters aSmile and bSmile indicate if each is smiling. We are in trouble if they are both smiling or if neither of them is smiling. Return true if we are in trouble.";
+        public string Name = "MonkeyTrouble";
+        public string Description = "We have two monkeys, a and b, and the parameters aSmile and bSmile indicate if each is smiling. We are in trouble if they are both smiling or if neither of them is smiling. Return true if we are in trouble.";
 
         static public bool ShowAnswer(bool aSmile, bool bSmile)
         {

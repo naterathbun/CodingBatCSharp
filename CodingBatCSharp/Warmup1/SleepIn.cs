@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class SleepIn
+    public class SleepIn
     {
-        public static string name = "SleepIn";
-        public static string description = "The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation. We sleep in if it is not a weekday or we're on vacation. Return true if we sleep in.";
+        public string Name = "SleepIn";
+        public string Description = "The parameter weekday is true if it is a weekday, and the parameter vacation is true if we are on vacation. We sleep in if it is not a weekday or we're on vacation. Return true if we sleep in.";
         
         static public bool ShowAnswer(bool weekday, bool vacation)
         {

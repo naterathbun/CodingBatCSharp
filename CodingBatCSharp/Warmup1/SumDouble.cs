@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class SumDouble
+    public class SumDouble
     {
-
-        public static string name = "SumDouble";
-        public static string description = "Given two int values, return their sum.Unless the two values are the same, then return double their sum.";
+        public string Name = "SumDouble";
+        public string Description = "Given two int values, return their sum.Unless the two values are the same, then return double their sum.";
 
         static public int ShowAnswer(int a, int b)
         {

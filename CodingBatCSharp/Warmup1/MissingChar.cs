@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class MissingChar
+    public class MissingChar
     {
-
-        public static string name = "MissingChar";
-        public static string description = "Given a non-empty string and an int n, return a new string where the char at index n has been removed.The value of n will be a valid index of a char in the original string (i.e.n will be in the range 0..str.length()-1 inclusive).";
+        public string name = "MissingChar";
+        public string description = "Given a non-empty string and an int n, return a new string where the char at index n has been removed.The value of n will be a valid index of a char in the original string (i.e.n will be in the range 0..str.length()-1 inclusive).";
 
         static public string ShowAnswer(string str, int n)
         {

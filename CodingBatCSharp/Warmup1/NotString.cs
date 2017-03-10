@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class NotString
+    public class NotString
     {
-        public static string name = "NotString";
-        public static string description = "Given a string, return a new string where 'not ' has been added to the front. However, if the string already begins with 'not', return the string unchanged. Note: use .equals() to compare 2 strings.";
+        public string name = "NotString";
+        public string description = "Given a string, return a new string where 'not ' has been added to the front. However, if the string already begins with 'not', return the string unchanged. Note: use .equals() to compare 2 strings.";
 
         public static string ShowAnswer(string str)
         {

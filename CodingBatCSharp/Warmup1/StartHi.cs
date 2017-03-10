@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class StartHi
+    public class StartHi
     {
-        public static string name = "StartHi";
-        public static string description = "Given a string, return true if the string starts with 'hi' and false otherwise.";
+        public string name = "StartHi";
+        public string description = "Given a string, return true if the string starts with 'hi' and false otherwise.";
 
         public static bool ShowAnswer(string str)
         {

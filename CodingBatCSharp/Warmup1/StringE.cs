@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class StringE
+    public class StringE
     {
-        public static string Name = "StringE";
-        public static string Description = "Return true if the given string contains between 1 and 3 'e' chars.";
+        public string Name = "StringE";
+        public string Description = "Return true if the given string contains between 1 and 3 'e' chars.";
 
         public static bool ShowAnswer(string str)
         {

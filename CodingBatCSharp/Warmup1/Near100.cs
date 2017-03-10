@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class Near100
+    public class Near100
     {
-        public static string name = "Near100";
-        public static string description = "Given an int n, return true if it is within 10 of 100 or 200. Note: Math.abs(num) computes the absolute value of a number.";
+        public string name = "Near100";
+        public string description = "Given an int n, return true if it is within 10 of 100 or 200. Note: Math.abs(num) computes the absolute value of a number.";
 
         public static bool ShowAnswer(int n)
         {

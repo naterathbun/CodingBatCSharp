@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class IntMax
+    public class IntMax
     {
-        public static string Name = "Int Max";
-        public static string Description = "Given three int values, a b c, return the largest.";
+        public string Name = "Int Max";
+        public string Description = "Given three int values, a b c, return the largest.";
 
         public static int ShowAnswer(int a, int b, int c)
         {

@@ -50,6 +50,7 @@
     <Compile Include="Warmup1\DelDel.cs" />
     <Compile Include="Warmup1\Diff21.cs" />
     <Compile Include="Warmup1\EndUp.cs" />
+    <Compile Include="Warmup1\EveryNth.cs" />
     <Compile Include="Warmup1\Front22.cs" />
     <Compile Include="Warmup1\Front3.cs" />
     <Compile Include="Warmup1\FrontBack.cs" />

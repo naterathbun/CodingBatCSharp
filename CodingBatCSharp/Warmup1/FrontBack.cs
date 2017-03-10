@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class FrontBack
+    public class FrontBack
     {
-        public static string name = "FrontBack";
-        public static string description = "Given a string, return a new string where the first and last chars have been exchanged.";
+        public string name = "FrontBack";
+        public string description = "Given a string, return a new string where the first and last chars have been exchanged.";
 
         public static string ShowAnswer(string str)
         {

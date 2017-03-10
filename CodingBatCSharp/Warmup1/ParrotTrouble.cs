@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace CodingBatCSharp.Warmup1
 {
-    public static class ParrotTrouble
+    public class ParrotTrouble
     {
 
-        public static string name = "ParrotTrouble";
-        public static string description = "We have a loud talking parrot.The 'hour' parameter is the current hour time in the range 0..23. We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return true if we are in trouble.";
+        public string Name = "ParrotTrouble";
+        public string Description = "We have a loud talking parrot.The 'hour' parameter is the current hour time in the range 0..23. We are in trouble if the parrot is talking and the hour is before 7 or after 20. Return true if we are in trouble.";
 
         static public bool ShowAnswer(bool talking, int hour)
         {
