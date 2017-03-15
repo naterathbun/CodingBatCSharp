@@ -89,6 +89,7 @@
     <Compile Include="Warmup2Tests\FrontTimesTest.cs" />
     <Compile Include="Warmup2Tests\DoubleXTest.cs" />
     <Compile Include="Warmup2Tests\StringBitsTest.cs" />
+    <Compile Include="Warmup2Tests\StringSplosionTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodingBatCSharp\CodingBatCSharp.csproj">
