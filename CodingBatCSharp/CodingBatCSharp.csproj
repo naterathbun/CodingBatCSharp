@@ -76,6 +76,7 @@
     <Compile Include="Warmup1\StartOz.cs" />
     <Compile Include="Warmup1\StringE.cs" />
     <Compile Include="Warmup1\SumDouble.cs" />
+    <Compile Include="Warmup2\ArrayCount9.cs" />
     <Compile Include="Warmup2\CountXX.cs" />
     <Compile Include="Warmup2\DoubleX.cs" />
     <Compile Include="Warmup2\FrontTimes.cs" />

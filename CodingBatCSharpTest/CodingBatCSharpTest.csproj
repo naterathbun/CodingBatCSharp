@@ -91,6 +91,7 @@
     <Compile Include="Warmup2Tests\StringBitsTest.cs" />
     <Compile Include="Warmup2Tests\StringSplosionTest.cs" />
     <Compile Include="Warmup2Tests\Last2Test.cs" />
+    <Compile Include="Warmup2Tests\ArrayCount9Test.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodingBatCSharp\CodingBatCSharp.csproj">
