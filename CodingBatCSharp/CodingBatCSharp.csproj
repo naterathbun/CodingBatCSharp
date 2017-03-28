@@ -84,6 +84,7 @@
     <Compile Include="Warmup2\FrontTimes.cs" />
     <Compile Include="Warmup2\Last2.cs" />
     <Compile Include="Warmup2\StringBits.cs" />
+    <Compile Include="Warmup2\StringMatch.cs" />
     <Compile Include="Warmup2\StringSplosion.cs" />
     <Compile Include="Warmup2\StringTimes.cs" />
   </ItemGroup>
