@@ -87,6 +87,7 @@
     <Compile Include="Warmup2\StringMatch.cs" />
     <Compile Include="Warmup2\StringSplosion.cs" />
     <Compile Include="Warmup2\StringTimes.cs" />
+    <Compile Include="Warmup2\StringX.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
