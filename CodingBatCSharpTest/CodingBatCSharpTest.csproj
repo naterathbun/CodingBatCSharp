@@ -97,6 +97,7 @@
     <Compile Include="Warmup2Tests\StringMatchTest.cs" />
     <Compile Include="Warmup2Tests\StringXTest.cs" />
     <Compile Include="Warmup2Tests\AltPairsTest.cs" />
+    <Compile Include="Warmup2Tests\StringYakTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CodingBatCSharp\CodingBatCSharp.csproj">
